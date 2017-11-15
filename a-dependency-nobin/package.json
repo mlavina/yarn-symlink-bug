@@ -1,0 +1,9 @@
+{
+  "name": "a-dependency-nobin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "sub-dependency-bin": "../sub-dependency-bin"
+  }
+}
