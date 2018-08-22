@@ -1,7 +1,7 @@
 To reproduce:
 ```
-git clone git@github.com:anders-advisa/yarn-symlink-bug.git
-cd yarn-symlink-bug/project/
+git clone git@github.com:mlavina/yarn-symlink-bug.git
+cd yarn-symlink-bug/
 yarn
 yarn run mybin
 ```
